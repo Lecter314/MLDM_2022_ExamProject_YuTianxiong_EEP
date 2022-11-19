@@ -1,5 +1,6 @@
 Intermediate status report, please see in .../NES Prediction1.4.ipynb:
-(Consider NES Prediction1.4 as current intermediate status, for a simple improvement, ver.1.5 obtain a score of 0.128, rank 837/1426. But the overall idea stays the same as ver.1.4)
+(Consider NES Prediction1.4 as current intermediate status, for a simple improvement, ver.1.5 obtain a score of 0.128, rank 837/1426. 
+But the overall idea stays the same as ver.1.4)
 
 Team member: Tianxiong Yu
 
