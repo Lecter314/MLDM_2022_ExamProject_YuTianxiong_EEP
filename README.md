@@ -4,7 +4,7 @@
 Exam project for Tianxiong Yu, including Intermediate status report and project defence(in progress). For detailed working progress, please check in my hw repo:
 ...path/MLDM_2022_YuTianxiong_EEP/Novozymes Enzyme Stability Prediction/ . 
 
-Consider I am the only team member, there's not much difference between whhich repo I put my work into, in hw or in project...
+Consider I am the only team member, there's not much difference between which repo I put my work into, in hw or in project...
 
 Basically in this repo I'll upload the critical improvements of my work, and in another(...path/MLDM_2022_YuTianxiong_EEP/Novozymes Enzyme Stability Prediction/) is for everything related to the exam project.
 
